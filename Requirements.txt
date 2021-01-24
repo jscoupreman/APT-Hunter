@@ -1,3 +1,4 @@
 netaddr
 evtx
 pandas
+xlsxwriter
